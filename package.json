@@ -2,14 +2,14 @@
   "name": "backend",
   "version": "1.0.0",
   "type": "module",
-  "description": "App Ecommerce ",
+  "description": "DW",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node index.js",
     "dev": "nodemon index.js"
   },
-  "author": "MisionTic2022 Ciclo 4A Desarrollo Aplicaciones WEB",
+  "author": "Edwin Diaz",
   "license": "ISC",
   "dependencies": {
     "bcrypt": "^5.1.0",
